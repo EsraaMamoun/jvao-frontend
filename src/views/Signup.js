@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import { createRef } from "react";
 import '../styles/auth-forms.css';
 import password from '../images/password.png';
